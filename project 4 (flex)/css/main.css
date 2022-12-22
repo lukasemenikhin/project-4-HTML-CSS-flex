@@ -1,0 +1,67 @@
+body{
+    display: flex 13px;
+}
+
+
+.flex-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+a {
+    color: black;
+    
+}
+
+i{
+    font-size: 40px;
+    
+}
+
+.card-1{
+    width: 500px;
+    height: 550px;
+    border: 5px solid black;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 5px 5px 5px black;
+    
+}
+.card-1:hover{
+    background-color: skyblue;
+    color: black;
+}
+
+
+.card-2{
+    width: 500px;
+    height: 550px;
+    border: 5px solid black;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 5px 5px 5px black;
+}
+
+.card-2:hover{
+    background-color: darkorange;
+    color: black;
+}
+
+
+.card-3{
+    width: 500px;
+    height: 550px;
+    border: 5px solid black;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 5px 5px 5px black;
+}
+
+.card-3:hover{
+    background-color: red;
+    color: black;
+}
+
+
